@@ -1,0 +1,35 @@
+:
+ School Timetable App – Explained Simply
+ What Is This App?
+This app is a simple school timetable manager built using Java. It lets you:
+
+View the timetable for the week
+
+Add or change subjects for any class period
+
+Do all of that right from the keyboard in a clean menu format
+
+It’s like a tiny assistant for managing school schedules — especially useful for students, teachers, or anyone organizing classes.
+
+ What Can It Do?
+Here’s what you can do with it:
+
+See the full week’s timetable — from Monday to Friday
+
+Update a subject — if “Math” was mistakenly put where “Science” should be, just fix it!
+
+Keep it tidy — every subject sits in its own time slot so your week stays organized
+
+Everything happens through a simple menu, where you type numbers to make choices. No clutter, no confusion.
+
+ How Does It Work?
+There's a timetable manager behind the scenes storing all the subjects.
+It shows you the timetable in a clean table.
+You can change any class by choosing the day, the class number, and typing in the new subject.
+Even better? The app is built with good coding practices:
+
+It keeps data safe and organized (encapsulation).
+It hides technical details and only shows what you need (abstraction).
+You can use it in schools, colleges, or even just to practice organizing tasks in your own week.
+This timetable app is a small project with a big purpose: helping organize time in a way that’s easy, clear, and customizable. And because it’s written in Java using real-world programming concepts, it’s also a great learning tool.
+
